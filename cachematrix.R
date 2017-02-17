@@ -34,4 +34,3 @@ cacheSolve <- function(x,...){
   x$setInverse(m)   #cache the inverse matrix
   m
 }
->>>>>>> origin/master
